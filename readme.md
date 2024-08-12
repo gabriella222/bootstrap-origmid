@@ -1,1 +1,1 @@
-Treinamendo ORIGMID -> BOOTSTRAP
+Treinamento ORIGMID -> BOOTSTRAP
